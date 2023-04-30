@@ -1,0 +1,4 @@
+Окрыть проэкт
+File
+Project Strukture
+В поле Language level выбрать нужную версию
